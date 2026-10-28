@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Lucas</title>
+  <desc id="desc">C#, .NET e desenvolvimento web. Banner em azul escuro com detalhes em violeta e verde.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#192344"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="23" stroke="#334155"/>
+  <rect x="60" y="60" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="107" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3">OLÁ, MUNDO!</text>
+  <text x="56" y="182" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Guilherme Lucas</text>
+  <text x="60" y="229" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">C# · .NET · Desenvolvimento web</text>
+  <text x="60" y="282" fill="#94A3B8" font-family="Consolas, monospace" font-size="17">@glucasaraujo</text>
+  <rect x="895" y="78" width="220" height="184" rx="20" fill="#0B1120" stroke="#475569"/>
+  <path d="M895 120H1115" stroke="#334155"/>
+  <circle cx="918" cy="99" r="4" fill="#A78BFA"/>
+  <circle cx="934" cy="99" r="4" fill="#2DD4BF"/>
+  <circle cx="950" cy="99" r="4" fill="#64748B"/>
+  <text x="1005" y="201" text-anchor="middle" fill="#C4B5FD" font-family="Consolas, monospace" font-size="58" font-weight="700">&lt;/&gt;</text>
+  <rect x="60" y="322" width="1080" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
