@@ -2,6 +2,7 @@
 
 - 🧑‍💻 Trabalho com C# e .NET, com foco em APIs e backend.
 - 🗄️ Utilizo ASP.NET Core, Entity Framework Core e SQL Server para desenvolver minhas soluções.
+- 🎸 Baixista nas horas vagas.
 
 **Tecnologias e ferramentas**
 
